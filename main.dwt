@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link href="../css/styles.css" rel="stylesheet" type="text/css" media="all">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>music</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+</style>
+<style type="text/css">
+<!--
+#wrapper #content p1 p {
+	font-family: Verdana, Geneva, sans-serif;
+}
+-->
+</style>
+<div id="wrapper">
+
+  <div id="topnav">
+  
+  <!-- TemplateBeginEditable name="topnav region" -->
+ 
+  
+  
+    	  <ul>
+    		  <li><a href="Home.html">Home</a></li>
+    		  <li><a href="about.html">About</a></li>
+     		 <li><a href="about.html">Contact us</a></li>
+   		  </ul> 
+    <!-- TemplateEndEditable -->
+  </div>
+   
+  <div id="name"> 
+  <!-- TemplateBeginEditable name="name region" -->
+    <h1>MUSIC 4 LIFE</h1>
+    <h2>latest music:2017-2018</h2>
+    <img src="../images/bg/is.jpg"width="429"/>
+    <h1> PHANTOM P</h1>
+	<!-- TemplateEndEditable -->
+  </div>
+   
+  <div id="image">
+  <!-- TemplateBeginEditable name="image region" -->
+ 
+  
+  <img src="../images/bg/is (2).jpg" height="267"/>
+  <img src="../images/bg/cover.jpg" width="282" height="8"/>
+  <!-- TemplateEndEditable --> 
+  </div>
+
+  <div id="content">
+  <!-- TemplateBeginEditable name="content region" -->
+    
+    <img src="../images/bg/cover.jpg"/>
+<h3><var> HOME</var></h3>
+<p>HEY WELCOME TO MY HOME PAGE, FEEL FREE TO SEARCH AND DOWNLAOD MUSIC OF YOUR CHOICE </p>
+<p>THANK YOU AGAIN FOR VISITING THE WEBSITE WHERE YOU CAN FIND ANY MUSIC OF YOUR CHOICE</p>
+<P1> </p1> 
+    <!-- TemplateEndEditable -->
+</div>
+    
+  <div id="search">
+  <!-- TemplateBeginEditable name="search region" -->
+ 
+  
+   
+    <h3>TOP SEARCH</h3>
+    <ul>
+      <li><a href="1.html" target="_top">1- </a> 
+      <li><a href="2.html" target="_top">2- </a> 
+      <li><a href="file:///C|/Users/phantom/Desktop/3.html">3- </a></li>
+      <li><a href="file:///C|/Users/phantom/Desktop/4.html">4- </a></li>
+      <li><a href="file:///C|/Users/phantom/Desktop/5.html">5- </a></li>
+      <li><a href="file:///C|/Users/phantom/Desktop/6.html">6- </a></li>
+      <li><a href="file:///C|/Users/phantom/Desktop/7.html">7- </a></li>
+      <li><a href="file:///C|/Users/phantom/Desktop/8.html">8- </a></li>
+      <li><a href="file:///C|/Users/phantom/Desktop/9.html">9- </a></li>
+      <li><a href="file:///C|/Users/phantom/Desktop/10.html">10- </a></li>
+      <li><a href="file:///C|/Users/phantom/Desktop/11.html">11- </a></li>
+      <li><a href="file:///C|/Users/phantom/Desktop/12.html">12- </a></li>     
+      <li><a href="file:///C|/Users/phantom/Desktop/13.html">13- </a></li>
+      <li><a href="file:///C|/Users/phantom/Desktop/14.html">14- </a></li>
+      <li><a href="file:///C|/Users/phantom/Desktop/15.html">15- </a></li>
+      <li><a href="file:///C|/Users/phantom/Desktop/16.html">16- </a></li>
+      <li><a href="file:///C|/Users/phantom/Desktop/17.html">17- </a></li>
+      <li><a href="file:///C|/Users/phantom/Desktop/18.html">18- </a></li>
+      <li><a href="file:///C|/Users/phantom/Desktop/19.html">19- </a></li>
+      <li><a href="file:///C|/Users/phantom/Desktop/20.html">20- </a></li>     
+      <li><a href="file:///C|/Users/phantom/Desktop/21.html">21- </a></li>
+      <li><a href="file:///C|/Users/phantom/Desktop/22.html">22- </a></li> 
+      <li><a href="file:///C|/Users/phantom/Desktop/23.html">23- </a> </li>
+      <li><a href="file:///C|/Users/phantom/Desktop/24.html">24- </a> </li>
+      <li><a href="file:///C|/Users/phantom/Desktop/25.html">25- </a></li> 
+      <li><a href="file:///C|/Users/phantom/Desktop/26.html">26- </a></li>
+      <li><a href="27.html">27-									</a></li>
+      <li><a href="28.html">28-										</a></li>
+      <li><a href="29.html">29-  									</a></li>
+      <li><a href="30.html">30										</a></li>
+                     
+    </ul> 
+	<!-- TemplateEndEditable -->
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</div>
+
+
+</div>
+</body>
+</html>
+
